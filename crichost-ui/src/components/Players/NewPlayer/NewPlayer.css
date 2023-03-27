@@ -1,0 +1,49 @@
+.NewPlayer {
+    width: 100%;
+    display: inline-block;
+    flex-flow: column;
+    box-shadow: 0 2px 1px #ccc;
+    margin-left: 160px;
+    position: fixed;
+    overflow: scroll;
+}
+
+
+/* Full-width input fields */
+
+hr {
+  border: 1px solid #f1f1f1;
+  margin-bottom: 25px;
+}
+
+/* Set a style for all buttons */
+button {
+  background-color: #4CAF50;
+  color: white;
+  padding: 14px 20px;
+  margin: 8px 0px 8px 25px ;
+  border: none;
+  cursor: pointer;
+
+  opacity: 0.9;
+}
+
+button:hover {
+  opacity:1;
+}
+
+/* Extra styles for the cancel button */
+.cancelbtn {
+  padding: 14px 20px;
+  background-color: #f44336;
+}
+
+/* Float cancel and signup buttons and add an equal width */
+.cancelbtn, .signupbtn {
+  float: left;
+}
+
+/* Add padding to container elements */
+.container {
+  padding: 16px;
+}

@@ -1,0 +1,23 @@
+Input {
+width: auto;
+padding: 5px;
+margin: 5px 0px 10px 0px;
+display: inline-block;
+border: none;
+background: #f1f1f1;
+}
+
+Input:focus {
+background-color: #ddd;
+outline: none;
+}
+
+Input[type='radio']{
+  margin-left: 40px;
+  margin-top: 8px;
+}
+
+label{
+  margin : 10px;
+  font-size: 15px;
+}
