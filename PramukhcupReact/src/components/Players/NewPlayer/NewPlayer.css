@@ -1,0 +1,15 @@
+.NewPlayer label{
+  font-weight: normal;
+}
+.top-buffer { margin-top:20px; }
+.NewPlayer Col{
+  align-items: center;
+}
+
+.hidden {
+  display:none;
+}
+
+.NewPlayer Col h2{
+  align-items: center;
+}
