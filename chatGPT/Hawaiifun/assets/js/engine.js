@@ -536,7 +536,8 @@ function toggleMenu(state) {
 }
 
 function clearConversation() {
-  $("#messages-list").html("");
+ // $("#messages-list").html("");
+ $("#messages-list .conversation-item").not( "div:first").remove();
 }
 
 function addMenuList() {
