@@ -1,0 +1,160 @@
+<html lang="en">
+   <head>
+      <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+      <title>Hawaiifun Bot</title>
+      <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=5">
+      <link rel="stylesheet" href="./assets/bootstrap-5.2.3/css/bootstrap.min.css" id="webchannel_custom_css">
+      <link rel="stylesheet" media="screen" href="./assets/style/cropper.css" id="webchannel_css">
+      <link rel="stylesheet" href="./assets/style/style.css" id="webchannel_custom_css">
+      <script src="./assets/js/jquery.min.js"></script>
+      <script src="./assets/bootstrap-5.2.3/js/bootstrap.min.js"></script>
+      <script src="./assets/js/moment.min.js"></script>
+      <script src="./assets/js/contants.js"></script>
+      <script src="./assets/js/engine.js"></script>
+   </head>
+   <body class="avm-messenger">
+      <div class="container-fluid ">
+         <div id="avm-aria-live" class="_avm-live-updates" aria-live="assertive" role="status"></div>
+         <div class="row h-100">
+            <div class="col-lg-8 col-md-12 col-sm-11">
+               <main class="avm-messenger border">
+                  <div class="top" id="messages-contacts-region" style="height: calc(100% - 100px)">
+                     <nav class="navbar navbar-dark bg-primary chat-header">
+                        <div class="container-fluid">
+                           <h2 class="title font-weight-bold" tabindex="0" aria-label="Hawaiifun Bot">Hawaiifun Bot</h2>
+                        </div>
+                     </nav>
+                     <div class="messages-view">
+                        <div id="snackbar" hidden>Please check your network connection</div>
+                        <div id="snackbar_invalid" hidden>You must check at least one island item</div>
+                        <div id="message-list-region" tabindex="0" role="region" aria-label="Chat Conversations. Press page up and page down keys to navigate through the messages" class="messages">
+                           <section id="messages-list" class="conversations">
+                              <div class="conversation-item clearfix not-mine" id="message-297fc782-0a75-442e-8cb9-da9fa2652329" request-message-id="46996a2c-d76b-4e34-9b0f-7ac4bafe3332" tabindex="-1" aria-label="" role="group">
+                                 <div class="media" style="text-align: center;">
+                                    <div class="media-body">
+                                       <div class="message-wrap" >
+                                          <div id="messageDisplay" class="desc flexColumn card-body p-3">
+                                             <div class="container-fluid border-bottom mb-2" id="answerPanel">
+                                                <div class="row">
+                                                   <div class="col-6 col-md-2">
+                                                      <div class="form-check form-check-inline">
+                                                         <input class="form-check-input" type="checkbox" id="flexCheckMaui" value="Maui">
+                                                         <label class="form-check-label" for="flexCheckMaui">Maui</label>
+                                                      </div>
+                                                   </div>
+                                                   <div class="col-6 col-md-3">
+                                                      <div class="form-check form-check-inline">
+                                                         <input class="form-check-input" type="checkbox" id="flexCheckKauai" value="Kauai">
+                                                         <label class="form-check-label" for="flexCheckKauai">Kauai</label>
+                                                      </div>
+                                                   </div>
+                                                   <div class="col-6 col-md-3">
+                                                      <div class="form-check form-check-inline">
+                                                         <input class="form-check-input" type="checkbox" id="flexCheckOahu" value="Oahu">
+                                                         <label class="form-check-label" for="flexCheckOahu">Oahu</label>
+                                                      </div>
+                                                   </div>
+                                                   <div class="col-6 col-md-4">
+                                                      <div class="form-check form-check-inline">
+                                                         <input class="form-check-input" type="checkbox" id="flexCheckBigIsland" value="Big Hawaii">
+                                                         <label class="form-check-label" for="flexCheckBigIsland">Big Hawaii</label>
+                                                      </div>
+                                                   </div>
+                                                </div>
+                                                <div class="row">
+                                                   <div class="col-12 center-content">
+                                                      <div class="form-check form-check-inline">
+                                                         <input class="form-check-input2" type="checkbox" id="flexCheckAll" value="All Islands">
+                                                         <label class="form-check-label" for="flexCheckAll">All Islands</label>
+                                                      </div>
+                                                   </div>
+                                                </div>
+                                             </div>
+                                             <div class="iris-pic  center-content" aria-hidden="true">
+                                                <div class="service-icon-box">
+                                                   <img class="service_icon" src="./assets/img/5.png" alt="Hike" title="Hike">
+                                                   <p>Hike</p>
+                                                </div>
+                                                <div style="display:inline-flex; margin-top: 10px;">
+                                                   <div style="padding-top: 10px; width: 30%;">
+                                                      <div class="service-icon-box">
+                                                         <img class="service_icon" src="./assets/img/4.png" alt="Luau" title="Luau">
+                                                         <p>Luau</p>
+                                                      </div>
+                                                      <div class="service-icon-box">
+                                                      <img class="service_icon" src="./assets/img/3.png" alt="" title="Whale watching" alt="Whale watching">
+                                                      <p>Whale watching</p>
+                                                   </div>
+                                                   </div>
+                                                   <div>
+                                                      <img class="avatar-img" draggable="false" alt="Chat bot avatar" src="./assets/img/avatar-2.jpeg">
+                                                   </div>
+                                                   <div style="padding-top: 10px; width: 30%;">
+                                                      <div class="service-icon-box">
+                                                         <img class="service_icon" src="./assets/img/1.png" alt="" title="Surfing" alt="Surfing"><p>Surfing</p>
+                                                      </div>
+                                                      <div class="service-icon-box">
+                                                      <img class="service_icon" src="./assets/img/2.png" alt="Bike ride" title="Bike ride">
+                                                      <p>Bike ride</p>
+                                                   </div> 
+                                                   </div>
+                                                </div>
+                                             </div>
+                                             <div class="container  center-content option-link">
+                                                <a href="#" class="link" title="Deals">Deals</a>
+                                                <a href="#" class="link" title="Quality">Quality</a>
+                                                <a href="#" class="link" title="New Stuff">New Stuff</a>
+                                             </div>
+                                          </div>
+                                       </div>
+                                    </div>
+                                 </div>
+                              </div>
+                           </section>
+                        </div>
+                     </div>
+                  </div>
+                  <form class="bottom conversation-form" id="messageEditor-region">
+                     <div class="editor-wrapper">
+                        <div class="location_error_message" style="padding: 10px; color: red; display: none;">Looks like your browser isn't able to share your location right now. Please try again or enter your location manually.</div>
+                        <div id="quick-reply-container" class="quick-reply-container hidden" aria-label="Quick replies list" role="group"></div>
+                        <div class="compose-message-fields">
+                           <!-- <button type="button" aria-expanded="false" aria-controls="bot-menu-container" class="ptr clear-btn-defaults botMenu__toggleEditor anchor botMenu__action-icon avm-icon-menu locale-trans switch-menu" data-ele-name="switch_menu" data-show="menu" aria-label="Switch to chat agent menu" id="toggleMenu"></button> -->
+                           <div class="textarea-wrap alignItemsCenter">
+                              <textarea id="txt_queryTextbox" class="txt-common" placeholder="Type a message..." role="textbox" style="width: 100%;"></textarea>
+                           </div>
+                           <button type="button" class="btn btn-link" id="btn_sendMessage"><img class="send-btn" src="./assets/img/send@2x.png" /></button>
+                        </div>
+                        <div class="d-flex justify-content-between p-1">
+                           <p class="text-secondary showFeedBackForm" id="clearConversation"><span class="badge bg-danger" title="Clear Chat"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-trash" viewBox="0 0 16 16">
+                              <path d="M5.5 5.5A.5.5 0 0 1 6 6v6a.5.5 0 0 1-1 0V6a.5.5 0 0 1 .5-.5Zm2.5 0a.5.5 0 0 1 .5.5v6a.5.5 0 0 1-1 0V6a.5.5 0 0 1 .5-.5Zm3 .5a.5.5 0 0 0-1 0v6a.5.5 0 0 0 1 0V6Z"></path>
+                              <path d="M14.5 3a1 1 0 0 1-1 1H13v9a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V4h-.5a1 1 0 0 1-1-1V2a1 1 0 0 1 1-1H6a1 1 0 0 1 1-1h2a1 1 0 0 1 1 1h3.5a1 1 0 0 1 1 1v1ZM4.118 4 4 4.059V13a1 1 0 0 0 1 1h6a1 1 0 0 0 1-1V4.059L11.882 4H4.118ZM2.5 3h11V2h-11v1Z"></path>
+                            </svg></span></p>
+                            <p class="text-secondary" ><a href="" title="Feedback">Feedback</span></p>
+                        </div>
+                       
+                        <div class="hidden card m-0 w-100" id="bot-menu-container" aria-label="Menu options" role="group">
+                           <div class="card-body">
+                              <div class="botMenu d-flex ptr">
+                                 <div class="botMenu__title flex dflex flexJustifyCenter locale-trans menu-options" data-ele-name="menu_options" title="Menu options">
+                                    <h4 class="h-15">Options</h4>
+                                 </div>
+                                 <button type="button" id="hideMenu" class="ptr btn btn-link"title="Close Menu" aria-expanded="true"><img class="close-btn" src="./assets/img/close@2x.png" /></button>
+                              </div>
+                              <div class="bot-menu-cont">
+                                 <div class="botMenu__menu d-flex" role="group">
+                                    <button id="showMenu" class="btn btn-outline-primary" type="button" srcdoc="undefined" actionname="Main Menu" webview_height_ratio="tall" aria-label="Main Menu">Feedback </a>
+                                    <button id="clearConversation" type="button" class="btn btn-outline-primary" target="_blank" type="deeplink" srcdoc="undefined" actionname="Clear Conversation" webview_height_ratio="tall" aria-label="Clear Conversation">Clear Conversation</button>
+                                 </div>
+                              </div>
+                           </div>
+                        </div>
+                     </div>
+                  </form>
+               </main>
+            </div>
+         </div>
+      </div>
+      </div>
+   </body>
+</html>
