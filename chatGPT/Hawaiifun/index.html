@@ -6,6 +6,7 @@
       <link rel="stylesheet" href="./assets/bootstrap-5.2.3/css/bootstrap.min.css" id="webchannel_custom_css">
       <link rel="stylesheet" media="screen" href="./assets/style/cropper.css" id="webchannel_css">
       <link rel="stylesheet" href="./assets/style/style.css" id="webchannel_custom_css">
+      <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
       <script src="./assets/js/jquery.min.js"></script>
       <script src="./assets/bootstrap-5.2.3/js/bootstrap.min.js"></script>
       <script src="./assets/js/moment.min.js"></script>
@@ -56,7 +57,7 @@
                                                    </div>
                                                    <div class="col-6 col-md-4">
                                                       <div class="form-check form-check-inline">
-                                                         <input class="form-check-input" type="checkbox" id="flexCheckBigIsland" value="Big Hawaii">
+                                                         <input class="form-check-input" type="checkbox" id="flexCheckBigIsland" value="Hawaii Island">
                                                          <label class="form-check-label" for="flexCheckBigIsland">Hawaii Island</label>
                                                       </div>
                                                    </div>
@@ -76,7 +77,7 @@
                                                    <p>Hike</p>
                                                 </div>
                                                 <div style="display:inline-flex; margin-top: 10px;">
-                                                   <div style="padding-top: 10px; width: 30%;">
+                                                   <div style=" width: 20%;">
                                                       <div class="service-icon-box">
                                                          <img class="service_icon" src="./assets/img/4.png" alt="Luau" title="Luau">
                                                          <p>Luau</p>
@@ -86,12 +87,12 @@
                                                       <p>Whale watching</p>
                                                    </div>
                                                    </div>
-                                                   <div>
+                                                   <div class="avatar-box" >
                                                       <img class="avatar-img" draggable="false" alt="Chat bot avatar" src="./assets/img/avatar-2.jpeg">
                                                    </div>
-                                                   <div style="padding-top: 10px; width: 30%;">
+                                                   <div style=" width: 20%;">
                                                       <div class="service-icon-box">
-                                                         <img class="service_icon" src="./assets/img/1.png" alt="" title="Surfing" alt="Surfing"><p>Surfing</p>
+                                                         <img class="service_icon" src="./assets/img/1.png" title="Surfing" alt="Surfing"><p>Surfing</p>
                                                       </div>
                                                       <div class="service-icon-box">
                                                       <img class="service_icon" src="./assets/img/2.png" alt="Bike ride" title="Bike ride">
@@ -99,10 +100,13 @@
                                                    </div> 
                                                    </div>
                                                 </div>
+                                                <!-- <div class="service-icon-box" id="btn_moreactivity" >
+                                                   <img class="service_icon" src="./assets/img/7.png" alt="More.." title="More activities">
+                                                </div>                                                 -->
                                              </div>
-                                             <div class="container  center-content option-link">
+                                             <div class="container  center-content option-link" style="margin-top: 10px;">
                                                 <a href="#" class="link" title="Deals">Deals</a>
-                                                <a href="#" class="link" title="Quality">Quality</a>
+                                                <a href="#" class="link" title="Categories">Categories</a>
                                                 <a href="#" class="link" title="New Stuff">New Stuff</a>
                                              </div>
                                           </div>
@@ -110,6 +114,28 @@
                                     </div>
                                  </div>
                               </div>
+                              <div id="activity-dialog" class="white_content">
+                                 <nav class="navbar navbar-dark bg-primary ">
+                                    <div class="container-fluid activity-dialog-header">
+                                       <h2 class="title " tabindex="0" aria-label="Activities">Activities:</h2>
+                                       <div class="popup-closer"><i class="fa fa-window-close"></i></div>
+                                    </div>
+                                 </nav>
+                                 <div id="myDropdown" class="dropdown-content">
+                                    <input type="text" placeholder="Search.." id="myInput" onkeyup="filterFunction()">
+                                    <a href="#" title="Airplane Tours">Airplane Tours</a>
+                                    <a href="#" title="Boat Tour">Boat Tour</a>
+                                    <a href="#" title="Golf">Golf</a>
+                                    <a href="#" title="Helicopter Tours">Helicopter Tours</a>
+                                    <a href="#" title="Island Day Trip">Island Day Trip</a>
+                                    <a href="#" title="Kayak Tours">Kayak Tours</a>
+                                    <a href="#" title="Parasailing">Parasailing</a>
+                                    <a href="#" title="Rafting">Rafting</a>
+                                    <a href="#" title="Sailing">Sailing</a>
+                                    <a href="#" title="Zip Line">Zip Line</a>
+                                  </div>
+                              </div>
+                              <div id="fade" class="black_overlay"></div>
                            </section>
                         </div>
                      </div>

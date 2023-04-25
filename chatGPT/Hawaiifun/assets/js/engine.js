@@ -9,7 +9,7 @@ var selectedNoofResult = 3;
 const userid = "sam123";
 const CHAT_TOKEN = "0f92173b-4275-49a8-90b2-102fe6195039";
 const CHAT_ID = "hawaiifun-org-na3mmbhgr";
-const CHAT_MODEL = "gpt-3.5-turbo";
+const CHAT_MODEL = "gpt-4";
 
 var URL_REGAX = /(https?:\/\/[^\s]+)/g;
 
@@ -50,7 +50,7 @@ $(document).ready(function () {
 
   $("img.service_icon").click(function (e) {
     const { title } = e.target;
-    if (title) {
+    if (title  && title != 'More activities') {
       $(".txt-common").val(title);
       handleButtonEvents();
     }
@@ -58,11 +58,38 @@ $(document).ready(function () {
 
   $(".option-link a.link").click(function (e) {
     const { title } = e.target;
-    if (title) {
+    if(title && title == 'Categories'){
+      $('#activity-dialog').show();
+      $('#fade').show();
+    }else if (title && title != 'Categories') {
       $(".txt-common").val(title);
       handleButtonEvents();
     }
   });
+
+  $("#myDropdown a").click(function (e) {
+    const { title } = e.target;
+    if (title) {
+      $(".txt-common").val(title);
+      handleButtonEvents();
+    }
+    closeActivityDialog();
+  });
+
+  $("div.popup-closer").click(function (e) {
+    closeActivityDialog();
+  })
+
+  // $("#btn_moreactivity").click(function () {
+  //   // fetch('./assets/resources/Categories.json', { mode: 'cors', headers : {
+  //   //                                                                                           "Content-Type": "application/json",
+  //   //                                                                                           "Access-Control-Allow-Origin": "*" }})
+  //   // .then(async(response) => response.json())
+  //   // .then((json) => console.log(json));
+
+  //   $('#activity-dialog').show();
+  //   $('#fade').show();
+  // });
 
   $("#btn_sendMessage").click(function () {
     handleButtonEvents();
@@ -109,7 +136,32 @@ $(document).ready(function () {
   showBotType();
   $(".send").prop("disabled", true);
   intialMessage();
+
+  $("#myInput").keyup(function () {
+    filterFunction();
+  })
 });
+
+function closeActivityDialog() {
+  $('#activity-dialog').hide();
+  $('#fade').hide();
+}
+
+function filterFunction() {
+  var input, filter, ul, li, a, i;
+  input = document.getElementById("myInput");
+  filter = input.value.toUpperCase();
+  div = document.getElementById("myDropdown");
+  a = div.getElementsByTagName("a");
+  for (i = 0; i < a.length; i++) {
+    txtValue = a[i].textContent || a[i].innerText;
+    if (txtValue.toUpperCase().indexOf(filter) > -1) {
+      a[i].style.display = "";
+    } else {
+      a[i].style.display = "none";
+    }
+  }
+}
 
 function intialMessage() {
   setTimeout(() => {

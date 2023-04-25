@@ -1,0 +1,517 @@
+{
+   "activities": [{
+         "id": 2,
+         "name": "Airplane Tours"
+      },
+      {
+         "id": 3,
+         "name": "Aquariums"
+      },
+      {
+         "id": 4,
+         "name": "Astronomy Tour"
+      },
+      {
+         "id": 5,
+         "name": "Attractions"
+      },
+      {
+         "id": 6,
+         "name": "Bicycling"
+      },
+      {
+         "id": 7,
+         "name": "Boat Tour"
+      },
+      {
+         "id": 8,
+         "name": "Cave Tours"
+      },
+      {
+         "id": 9,
+         "name": "Ferries"
+      },
+      {
+         "id": 10,
+         "name": "GlassBottom Viewing"
+      },
+      {
+         "id": 11,
+         "name": "Golf"
+      },
+      {
+         "id": 12,
+         "name": "Guided Land Tours"
+      },
+      {
+         "id": 13,
+         "name": "Hang Gliding"
+      },
+      {
+         "id": 14,
+         "name": "Helicopter Tours"
+      },
+      {
+         "id": 15,
+         "name": "Hiking"
+      },
+      {
+         "id": 16,
+         "name": "Horseback Riding"
+      },
+      {
+         "id": 18,
+         "name": "Island Day Trip"
+      },
+      {
+         "id": 19,
+         "name": "Jet Skiing"
+      },
+      {
+         "id": 20,
+         "name": "Kayak Tours"
+      },
+      {
+         "id": 21,
+         "name": "Luau"
+      },
+      {
+         "id": 22,
+         "name": "Museums"
+      },
+      {
+         "id": 23,
+         "name": "Nightlife"
+      },
+      {
+         "id": 24,
+         "name": "Zip Line"
+      },
+      {
+         "id": 25,
+         "name": "Parasailing"
+      },
+      {
+         "id": 26,
+         "name": "Rafting"
+      },
+      {
+         "id": 27,
+         "name": "Railroads or Trams"
+      },
+      {
+         "id": 29,
+         "name": "Rental Equipment"
+      },
+      {
+         "id": 30,
+         "name": "Shopping"
+      },
+      {
+         "id": 31,
+         "name": "Sailing"
+      },
+      {
+         "id": 32,
+         "name": "Scuba"
+      },
+      {
+         "id": 37,
+         "name": "Snorkeling"
+      },
+      {
+         "id": 38,
+         "name": "Snuba"
+      },
+      {
+         "id": 39,
+         "name": "Fishing"
+      },
+      {
+         "id": 40,
+         "name": "Sporting Clays"
+      },
+      {
+         "id": 41,
+         "name": "Submarine"
+      },
+      {
+         "id": 42,
+         "name": "Sunset Tours"
+      },
+      {
+         "id": 45,
+         "name": "Theater"
+      },
+      {
+         "id": 48,
+         "name": "Water-skiing"
+      },
+      {
+         "id": 49,
+         "name": "weddings"
+      },
+
+      {
+         "id": 50,
+         "name": "Whale Watching"
+      },
+      {
+         "id": 51,
+         "name": "Windsurfing"
+      },
+      {
+         "id": 56,
+         "name": "Transportation"
+      },
+      {
+         "id": 58,
+         "name": "Eco Tours"
+      },
+      {
+         "id": 59,
+         "name": "ATV & UTV Tours"
+      },
+      {
+         "id": 60,
+         "name": "Kiteboarding"
+      },
+      {
+         "id": 63,
+         "name": "Shows"
+      },
+      {
+         "id": 65,
+         "name": "Paragliding"
+      },
+      {
+         "id": 66,
+         "name": "Amphibious Tours"
+      },
+      {
+         "id": 67,
+         "name": "Culinary Tours"
+      },
+      {
+         "id": 70,
+         "name": "Canoe Paddling"
+      },
+      {
+         "id": 74,
+         "name": "Photography"
+      },
+      {
+         "id": 77,
+         "name": "Skate Park"
+      },
+      {
+         "id": 78,
+         "name": "Youth Activities"
+      },
+      {
+         "id": 80,
+         "name": "Wakeboarding"
+      },
+      {
+         "id": 82,
+         "name": "Banana Boat"
+      },
+      {
+         "id": 83,
+         "name": "Free Stuff"
+      },
+      {
+         "id": 84,
+         "name": "Combination Tours"
+      },
+      {
+         "id": 86,
+         "name": "Ghost Tours"
+      },
+      {
+         "id": 87,
+         "name": "Parks"
+      },
+      {
+         "id": 88,
+         "name": "Dolphins"
+      },
+      {
+         "id": 89,
+         "name": "Manta Rays"
+      },
+      {
+         "id": 93,
+         "name": "Food Tours"
+      },
+      {
+         "id": 96,
+         "name": "Sightseeing Tours"
+      },
+      {
+         "id": 97,
+         "name": "Boogie Boarding"
+      },
+      {
+         "id": 99,
+         "name": "Rappelling"
+      },
+      {
+         "id": 100,
+         "name": "Lei Greeters"
+      },
+      {
+         "id": 103,
+         "name": "Stand up Paddle Boarding"
+      },
+      {
+         "id": 105,
+         "name": "Self Guided Tours"
+      },
+      {
+         "id": 106,
+         "name": "Bumper Tubing"
+      },
+      {
+         "id": 108,
+         "name": "Hula Dancing Lessons"
+      },
+      {
+         "id": 109,
+         "name": "Comedy Club"
+      },
+      {
+         "id": 110,
+         "name": "Gardens"
+      },
+      {
+         "id": 111,
+         "name": "Restaurants"
+      },
+      {
+         "id": 112,
+         "name": "Spas & Gyms"
+      },
+      {
+         "id": 114,
+         "name": "Agricultural Farm Tour"
+      },
+      {
+         "id": 115,
+         "name": "Concert"
+      },
+      {
+         "id": 116,
+         "name": "Segway Tours"
+      },
+      {
+         "id": 118,
+         "name": "Sphere-Riding"
+      },
+      {
+         "id": 119,
+         "name": "Zoo"
+      },
+      {
+         "id": 120,
+         "name": "Ballooning"
+      },
+      {
+         "id": 121,
+         "name": "Water Park"
+      },
+      {
+         "id": 122,
+         "name": "Submersible Scooter"
+      },
+      {
+         "id": 123,
+         "name": "Turtle Watching"
+      },
+      {
+         "id": 124,
+         "name": "Lava Tours"
+      },
+      {
+         "id": 125,
+         "name": "Volcano Tours"
+      },
+      {
+         "id": 126,
+         "name": "Sunrise Tours"
+      },
+      {
+         "id": 127,
+         "name": "Audio Tours"
+      },
+      {
+         "id": 128,
+         "name": "Surf Ski"
+      },
+      {
+         "id": 129,
+         "name": "Painting Tours"
+      },
+      {
+         "id": 130,
+         "name": "Surfing Lessons & Camps"
+      },
+      {
+         "id": 131,
+         "name": "Massage"
+      },
+      {
+         "id": 132,
+         "name": "Trapeze"
+      },
+      {
+         "id": 133,
+         "name": "Archery"
+      },
+      {
+         "id": 134,
+         "name": "Paintball"
+      },
+      {
+         "id": 135,
+         "name": "Magic Show"
+      },
+      {
+         "id": 136,
+         "name": "Camping"
+      },
+      {
+         "id": 137,
+         "name": "Pearl Harbor Tours"
+      },
+      {
+         "id": 138,
+         "name": "Sunset Dinner Cruise"
+      },
+      {
+         "id": 139,
+         "name": "Props & Decor"
+      },
+      {
+         "id": 140,
+         "name": "Party & Event Planning"
+      },
+      {
+         "id": 141,
+         "name": "Circus"
+      },
+      {
+         "id": 142,
+         "name": "Farmers Markets"
+      },
+      {
+         "id": 143,
+         "name": "Cultural & Historic"
+      },
+      {
+         "id": 144,
+         "name": "Bird Watching"
+      },
+      {
+         "id": 145,
+         "name": "Holidays and Special Occassions"
+      },
+      {
+         "id": 146,
+         "name": "Cruiseship Friendly"
+      },
+      {
+         "id": 147,
+         "name": "Flume Rides"
+      },
+      {
+         "id": 148,
+         "name": "Petting Zoo Tour"
+      },
+      {
+         "id": 149,
+         "name": "Winery"
+      },
+      {
+         "id": 150,
+         "name": "Flyboarding"
+      },
+      {
+         "id": 151,
+         "name": "Mule Rides"
+      },
+      {
+         "id": 152,
+         "name": "Escape Room"
+      },
+      {
+         "id": 153,
+         "name": "Virtual"
+      },
+      {
+         "id": 154,
+         "name": "PONOREZ Online Ticket & CCI"
+      },
+      {
+         "id": 155,
+         "name": "PONOREZ Air Tour Module"
+      },
+      {
+         "id": 156,
+         "name": "Sustainable Tourism of Hawaii Certified"
+      },
+      {
+         "id": 158,
+         "name": "Safety (Visitors & Community)"
+      },
+      {
+         "id": 159,
+         "name": "Minimum Wage"
+      },
+      {
+         "id": 160,
+         "name": "Affordable Housing"
+      },
+      {
+         "id": 161,
+         "name": "Unemployment"
+      },
+      {
+         "id": 162,
+         "name": "Taxes"
+      },
+      {
+         "id": 163,
+         "name": "Cost of Running a Business"
+      },
+      {
+         "id": 164,
+         "name": "Restaurants"
+      },
+      {
+         "id": 165,
+         "name": "Retail Merchants"
+      },
+      {
+         "id": 166,
+         "name": "Accommodations"
+      },
+      {
+         "id": 167,
+         "name": "Activities & Attractions"
+      },
+      {
+         "id": 168,
+         "name": "Agriculture"
+      },
+      {
+         "id": 169,
+         "name": "Real Estate"
+      },
+      {
+         "id": 170,
+         "name": "Activities & Attractions"
+      }
+   ]
+
+}

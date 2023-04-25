@@ -1,0 +1,866 @@
+[
+    {
+        "id": 13,
+        "name": "Atlantis Submarines",
+        "categories": [
+            "Attractions",
+            "Submarine",
+            "Eco Tours"
+        ],
+        "address": {
+            "streetAddress": "252 Paoa Pl P297",
+            "city": "Honolulu",
+            "state": "HI",
+            "zipCode": "96815"
+        },
+        "rsvpPhone": "808-973-9811",
+        "adminPhone": "808-973-9800",
+        "tollFreePhone": "1-800-548-6262",
+        "fax": "808-973-9840",
+        "url": "http://www.atlantisadventures.com",
+        "cancellationPolicy": "100% refund if cancellation is 24 hours prior of the activity date. No refund inside of this 24 hour period."
+    },
+    {
+        "id": 522,
+        "name": "Island Breeze Luau at the Courtyard Marriott King Kamehameha's Kona Beach Hotel",
+        "categories": [
+            "Attractions",
+            "Luau",
+            "Nightlife",
+            "weddings",
+            "Shows",
+            "Lei Greeters",
+            "Hula Dancing Lessons"
+        ],
+        "address": {
+            "streetAddress": "75-5660 Palani Rd",
+            "city": "Kailua-Kona",
+            "state": "HI",
+            "zipCode": "96740"
+        },
+        "rsvpPhone": "(808)326-4969",
+        "adminPhone": "(808)329-8111",
+        "tollFreePhone": "",
+        "fax": "",
+        "url": "http://https://www.eventsbyislandbreeze.com/island-breeze-luau",
+        "cancellationPolicy": "Customers will receive a full refund with a 24-hour notice of cancellation prior to the event. Groups of 10 or more require a 48-hour notice of cancellation. Contact us at 808.326.4969 to cancel or inquire about a cancellation. No-shows will be charged the full price."
+    },
+    {
+        "id": 600,
+        "name": "Kohala Eco Venture",
+        "categories": [
+            "Attractions",
+            "Boat Tour",
+            "Guided Land Tours",
+            "Kayak Tours",
+            "Rafting",
+            "Cultural & Historic",
+            "Flume Rides"
+        ],
+        "address": {
+            "streetAddress": "55-517 Hawi Road",
+            "city": "Hawi",
+            "state": "HI",
+            "zipCode": "96719"
+        },
+        "rsvpPhone": "808-933-4294",
+        "adminPhone": "808-933-4294",
+        "tollFreePhone": "844-933-4294",
+        "fax": "(808) 319-2190",
+        "url": "http://www.kohalautv.com",
+        "cancellationPolicy": "I agree to Kohala UTV Adventures' cancellation/change policy. Cancellations within the cancellation period and \"no- shows\" will be charged the FULL AMOUNT of the tour. All same-day reservations are final. Guests are required to sign liability waivers for all tours.\r\n"
+    },
+    {
+        "id": 425,
+        "name": "Ocean Sports",
+        "categories": [
+            "Boat Tour",
+            "Snorkeling",
+            "Sunset Tours",
+            "Whale Watching"
+        ],
+        "address": {
+            "streetAddress": "P.O. Box 383699",
+            "city": "Waikoloa",
+            "state": "HI",
+            "zipCode": "96738"
+        },
+        "rsvpPhone": "(808) 886-6666",
+        "adminPhone": "(808) 886-6666",
+        "tollFreePhone": "(888) 724-5924 ",
+        "fax": "(808) 885-5555",
+        "url": "http://www.hawaiioceansports.com",
+        "cancellationPolicy": "Cancellation Policy: If you need to cancel your reservation with us, please do so 24 hours prior to your scheduled activity to receive a full refund. If you need to cancel less than 24 hours prior, you'll be charged the full fare. Cancellations on our Catamaran cruises due to weather are at the sole discretion of the Captain.\r\nCancellation terms for blocks or Exclusive Charters may vary as agreed. "
+    },
+    {
+        "id": 404,
+        "name": "UFO Big Island",
+        "categories": [
+            "Parasailing"
+        ],
+        "address": {
+            "streetAddress": "75-5660 Palani Rd. Ste #111",
+            "city": "Kailua Kona",
+            "state": "HI",
+            "zipCode": "96740"
+        },
+        "rsvpPhone": "808-325-5836",
+        "adminPhone": "808-325-5836",
+        "tollFreePhone": "800-359-4836",
+        "fax": "808-331-2440",
+        "url": "http://www.ufoparasail.net",
+        "cancellationPolicy": "Cancellation policy: 24 hour cancellation required for full refund.\r\n \r\nWeight restrictions: Minimum weight to fly alone is 160lbs; Maximum weight to fly alone, tandem, or  triple is 450lbs. Weight restrictions may be increased or decreased by the captain, depending on wind or sea conditions, on that date. Please note that refunds are not issued based on your preference to fly alone, tandem, or triple. Participants must be willing to parasail at the captain's discretion for safety.\r\n\r\nPhysical Restrictions: Participants must be able to walk down the dock and board the parasail vessel with minimal or no assistance. The boats are not wheelchair accessible.\r\n\r\nAge Restrictions: Minimum age to parasail or ride on the boat as a paying observer is 5 years old. The observer fee is $79 per person. \r\nAll participants are required to sign liability waivers before participating in this activity; parent or adult legal guardian must sign liability waiver for any participating minors under 18 years old.\r\n\r\nDuration: Although the total time on the boat is approximately 1 hour, our Out-of-this-World 1200 foot ride is approximately 8 minutes for single, double, or triple rides. There is a maximum 6-8 passengers per trip in Kona."
+    },
+    {
+        "id": 188,
+        "name": "Blue Dolphin Charters",
+        "categories": [
+            "Boat Tour",
+            "Rafting",
+            "Sailing",
+            "Scuba",
+            "Snorkeling",
+            "Fishing",
+            "Sunset Tours",
+            "Whale Watching",
+            "Combination Tours",
+            "Sightseeing Tours",
+            "Sunset Dinner Cruise"
+        ],
+        "address": {
+            "streetAddress": "4353 Waialo Road 7B",
+            "city": "Eleele",
+            "state": "HI",
+            "zipCode": "96705"
+        },
+        "rsvpPhone": "(808) 335-5553",
+        "adminPhone": "(808) 335-5553",
+        "tollFreePhone": "",
+        "fax": "(808) 335-5440",
+        "url": "http://https://bluedolphinkauai.com",
+        "cancellationPolicy": "By checking here I acknowledge that there are no expecting mothers or children under 2 years old in our group (5 years old for the Niihau tour and 8 years old for raft tours). I also understand that there are no refunds for cancellations made less than 24 hours before the tour (72 hours for groups of 10 or more)."
+    },
+    {
+        "id": 613,
+        "name": "Fathom Five Adventures",
+        "categories": [
+            "Boat Tour",
+            "Scuba"
+        ],
+        "address": {
+            "streetAddress": "3450 Poipu Rd.",
+            "city": "Koloa",
+            "state": "HI",
+            "zipCode": "96756"
+        },
+        "rsvpPhone": "808-742-6991",
+        "adminPhone": "",
+        "tollFreePhone": "800-972-3078",
+        "fax": "808-720-6233",
+        "url": "http://www.fathomfive.com",
+        "cancellationPolicy": "Check here to acknowledge our 24 Hour Cancellation Policy.\r\n**48 HOUR CANCELLATION POLICY ON NIIHAU**"
+    },
+    {
+        "id": 197,
+        "name": "Safari Helicopter Tours",
+        "categories": [
+            "Helicopter Tours",
+            "Cruiseship Friendly"
+        ],
+        "address": {
+            "streetAddress": "3225 Akahi St",
+            "city": "Lihue",
+            "state": "HI",
+            "zipCode": "96766"
+        },
+        "rsvpPhone": "808-246-0136",
+        "adminPhone": "808-246-0136",
+        "tollFreePhone": "800-326-3356",
+        "fax": "808-246-0670",
+        "url": "http://www.safarihelicopters.com",
+        "cancellationPolicy": "Cancellations must be made 24 hours prior to the day of service and will result in a 10% credit card charge. Cancellations made in a shorter period of time (less than 24 hours prior to the day of service) will result in a 100% charge being incurred. 100% refund for cancellation initiated by company. Tours and times may vary due to weather conditions. Our ASTAR helicopter has a custom Mega Window for exceptional viewing; we highly recommend wearing dark clothing for taking pictures in order to reduce any potential glare or reflection on the Mega Windows. The Mega Windows were developed for exceptional viewing not for photography. Wheelchair accessible - conditional - please call to clarify."
+    },
+    {
+        "id": 387,
+        "name": "Smith's Luau and Fern Grotto Tours",
+        "categories": [
+            "Attractions",
+            "Boat Tour",
+            "Cave Tours",
+            "Luau",
+            "Nightlife",
+            "Shows",
+            "Self Guided Tours",
+            "Gardens",
+            "Cultural & Historic",
+            "Cruiseship Friendly"
+        ],
+        "address": {
+            "streetAddress": "3-5971 Kuhio Highway",
+            "city": "Kapaa",
+            "state": "HI",
+            "zipCode": "96746"
+        },
+        "rsvpPhone": "808-821-6895",
+        "adminPhone": "808-821-6880",
+        "tollFreePhone": "",
+        "fax": "808-822-4520",
+        "url": "http://www.smithskauai.com",
+        "cancellationPolicy": "If you need to cancel your reservations, please do so 24 hours prior to the date of event to avoid any cancellation charges. Cancellations received less than 24 hours will result in a 50% cancellation fee. A \"No-Show\" on a reservation will result in a 100% cancellation fee. "
+    },
+    {
+        "id": 154,
+        "name": "Award Winning Temptation Tours",
+        "categories": [
+            "Cave Tours",
+            "Guided Land Tours",
+            "Helicopter Tours",
+            "Hiking",
+            "Island Day Trip",
+            "Transportation",
+            "Sightseeing Tours",
+            "Agricultural Farm Tour",
+            "Sunrise Tours",
+            "Cruiseship Friendly",
+            "Sustainable Tourism of Hawaii Certified"
+        ],
+        "address": {
+            "streetAddress": "15 S Wakea Ave",
+            "city": "Kahului",
+            "state": "HI",
+            "zipCode": "96732"
+        },
+        "rsvpPhone": "808-877-8888",
+        "adminPhone": "808-877-8888",
+        "tollFreePhone": "800-817-1234",
+        "fax": "808-872-4624",
+        "url": "http://www.temptationtours.com",
+        "cancellationPolicy": "I accept that to cancel any tour purchased online and receive my authorized cancellation number, I must call 1-800-817-1234 by 7 AM (Hawaii Standard Time), no less than 3 days prior to tour date, in order to be eligible for a refund. No refund for no shows. "
+    },
+    {
+        "id": 314,
+        "name": "Blue Water Rafting",
+        "categories": [
+            "Boat Tour",
+            "Rafting",
+            "Snorkeling"
+        ],
+        "address": {
+            "streetAddress": "2800 S Kihei Rd",
+            "city": "Kihei",
+            "state": "HI",
+            "zipCode": "96753"
+        },
+        "rsvpPhone": "808-879-7238",
+        "adminPhone": "808-879-0669",
+        "tollFreePhone": "",
+        "fax": "808-891-1497",
+        "url": "http://www.bluewaterrafting.com",
+        "cancellationPolicy": "100% refundable if cancelled prior to 24 hours. If a private, 100% refund if cancelled 5 days prior to charter. No Exceptions. No pregnant passengers or those with back or neck problems. No Children under 4 years of age; adult supervision required for those under 12. No wheel chair accommodations or service animals."
+    },
+    {
+        "id": 569,
+        "name": "Captain Steve's Rafting",
+        "categories": [
+            "Boat Tour",
+            "Rafting",
+            "Snorkeling",
+            "Whale Watching",
+            "Dolphins"
+        ],
+        "address": {
+            "streetAddress": "Mala Boat Ramp",
+            "city": "Lahaina",
+            "state": "HI",
+            "zipCode": "96761"
+        },
+        "rsvpPhone": "808-667-5565",
+        "adminPhone": "808-667-5565",
+        "tollFreePhone": "",
+        "fax": "808-667-6688",
+        "url": "http://www.captainsteves.com",
+        "cancellationPolicy": "Minimum age to ride on the rafts for whale watches is 3 years old. Minimum age to ride on the rafts for snorkel adventures is 5 years old. Our trips are not recommended for people with back or neck issues, bad knees, heart problems, elderly or fragile people, or pregnant women. For a 100% refund, cancellations or changes must be made at least 48 hours in advance of the tour time by calling reservations at 808-667-5565. Cancellations for private charters must be made at least 10 days in advance. There will be a 100% charge for no-shows. In other words, if you do not show up for the scheduled tour or you miss the boat, no refund will be issued, as our ability to fill the seat(s) will have been lost."
+    },
+    {
+        "id": 296,
+        "name": "Feast at LELE",
+        "categories": [
+            "Attractions",
+            "Luau",
+            "Cultural & Historic",
+            "PONOREZ Online Ticket & CCI"
+        ],
+        "address": {
+            "streetAddress": "505 Front Street",
+            "city": "Lahaina",
+            "state": "HI",
+            "zipCode": "96761"
+        },
+        "rsvpPhone": "808-667-5353",
+        "adminPhone": "808-667-5353",
+        "tollFreePhone": "1-866-244-5353",
+        "fax": "808-662-0635",
+        "url": "http://www.feastatlele.com",
+        "cancellationPolicy": "<br>\r\nReservations of 9 or less: by 10am of event date\r\n<br>\r\nReservations of 10-19:  24-hours prior to event date\r\n<br>\r\nReservations of 20-50:  72-hours prior to event date\r\n<br>\r\nReservations of 51 or more: See your original group confirmation\r\n<br>\r\n<br>\r\n*Cancellations received after your cancellation period has ended or \u201cno-shows\u201d are a full charge.  \r\n<br>\r\n<br>\r\n*Reservations booked through a 3rd party agency / Activity or Ticket vendor, are subject to that agencies cancellation policy. Please contact your booking agency for their cancellation policy."
+    },
+    {
+        "id": 572,
+        "name": "Finest Kind Sportfishing",
+        "categories": [],
+        "address": {
+            "streetAddress": "675 Wharf St.",
+            "city": "Lahaina",
+            "state": "HI",
+            "zipCode": "96761"
+        },
+        "rsvpPhone": "877-688-0999",
+        "adminPhone": "808-250-0147 Steph",
+        "tollFreePhone": "877-688-0999",
+        "fax": "",
+        "url": "http://hthttps://finestkindsportfishingmaui.com",
+        "cancellationPolicy": "Any reservations cancelled within 72 hours will be charged 100% and no refund will be issued.  No shows will be charged 100% no refund will be issued. So if you drink too many Mai\r\nTai\u2019s at the Luau the night before, and fail to make your charter, your card will be charged the full amount of the charter."
+    },
+    {
+        "id": 43,
+        "name": "Haleakala Bike Company",
+        "categories": [
+            "Bicycling",
+            "Sunrise Tours",
+            "Cruiseship Friendly",
+            "Sustainable Tourism of Hawaii Certified"
+        ],
+        "address": {
+            "streetAddress": "810 Haiku Road Suite #120",
+            "city": "Haiku",
+            "state": "HI",
+            "zipCode": "96708"
+        },
+        "rsvpPhone": "808-575-9575",
+        "adminPhone": "808-575-9575",
+        "tollFreePhone": "888-922-2453",
+        "fax": "808-575-2474",
+        "url": "http://www.bikemaui.com",
+        "cancellationPolicy": "<b>CANCELLATION POLICY</b>\r\n<P>\r\n<P>\r\nAll reservations are paid for in full at the time of booking. Cancelations within the last 48 hours prior to the activity date will not be issued any refund and will be charged 100% for the activity. No Refunds will be issued to \"No Shows\".   Cancelations due to medical reasons can result in a refund if a doctor\u2019s note is provided.\r\n<P>\r\nGroups of 10 or more must cancel at least 1 week (7 days) prior to their scheduled activity date.  If a cancelation for a group booking is made after the 7-day mark, there will be no refund issued.  Final counts, names, and waivers should be submitted no later than 48 hours prior to activity date.\r\n<P>\r\nActivities may be canceled by Haleakal\u0101 EcoTours/Bike Maui for reasons including but not limited to inclement weather, road hazards, lack of participation, resource allocation, etc. In the event of a canceled activity, the following options will be available to the clients: A trip that is canceled prior to any services provided will result in first the option to reschedule. Guests may elect a different day pending available, or a different activity (charges may apply).  Guests also have the option of taking a rain check for a future date.   \r\n<P>\r\nActivities may be modified, shortened, or changed but are not limited to the reasons stated above.  If the company does modify the activity, the price of the downgraded activity will still be applied and the difference refunded.  The company reserves the right to apply a service fee to recover any costs associated with the services provided.\r\n<P>\r\nCustomers may decline to participate in their scheduled activity at any point and are encouraged to do so if they are not comfortable participating in the activity.  Those who decline to participate due to the nature of the activity may request a refund if that request is made prior to services being offered.   This formal request must be made by filling out the refund request form available at the check-in location.  Refunds of any sort will be determined on a case by case basis by management.\r\n<P>\r\n"
+    },
+    {
+        "id": 245,
+        "name": "Hula Girl Sailing Charters",
+        "categories": [
+            "Boat Tour",
+            "Sailing",
+            "Scuba",
+            "Snorkeling",
+            "Sunset Tours",
+            "weddings",
+            "Whale Watching",
+            "Sunset Dinner Cruise",
+            "Cruiseship Friendly"
+        ],
+        "address": {
+            "streetAddress": "Kaanapali Beach",
+            "city": "Lahaina",
+            "state": "HI",
+            "zipCode": "96761"
+        },
+        "rsvpPhone": "808 665-0344",
+        "adminPhone": "808-669-0133",
+        "tollFreePhone": "",
+        "fax": "808-665-0209",
+        "url": "http://www.sailingmaui.com",
+        "cancellationPolicy": "Check here acknowledging our Non-Refundable Cancellation Policy: 24 hours from check in for full refund."
+    },
+    {
+        "id": 59,
+        "name": "Lahaina Cruise Co, Hawaii Ocean Project",
+        "categories": [
+            "Boat Tour",
+            "Nightlife",
+            "Scuba",
+            "Snorkeling",
+            "Sunset Tours",
+            "Whale Watching",
+            "Sunset Dinner Cruise",
+            "Holidays and Special Occassions"
+        ],
+        "address": {
+            "streetAddress": "Lahaina Harbor 654 Wharf St.",
+            "city": "Lahaina",
+            "state": "HI",
+            "zipCode": "96761"
+        },
+        "rsvpPhone": "808-667-6165",
+        "adminPhone": "808-667-9266",
+        "tollFreePhone": "800-275-6969",
+        "fax": "808-661-5792",
+        "url": "http://www.hawaiioceanproject.com",
+        "cancellationPolicy": "Please be advised all cancellations must be 24 hours prior to scheduled activity. NO Refunds for any cancellations within 24 hours. Reschedule fee will be collected upon re-booking."
+    },
+    {
+        "id": 418,
+        "name": "Maui Adventure Cruises",
+        "categories": [
+            "Boat Tour",
+            "Island Day Trip",
+            "Rafting",
+            "Snorkeling",
+            "Whale Watching",
+            "Dolphins"
+        ],
+        "address": {
+            "streetAddress": "94 Kupuohi St. Emerald Plaza A-6",
+            "city": "Lahaina",
+            "state": "HI",
+            "zipCode": "96761"
+        },
+        "rsvpPhone": "808-661-5550",
+        "adminPhone": "808-661-5550",
+        "tollFreePhone": "",
+        "fax": "",
+        "url": "http://www.mauiadventurecruises.com",
+        "cancellationPolicy": "A 48-hour cancellation notice in advance of the trip departure time is required for a refund. If an attempted cancellation is less than 48-hours advance notice and due to a medical illness, a written statement from a LOCAL physician or medical clinic is required. Guest may reschedule an excursion without a cancellation charge if the new excursion is taken within 72-hours of the booked excursion (limited by availability, unable to cancel). Any price differential in the original booked excursion and the rescheduled excursion shall be paid by or refunded to the passenger as the case may be."
+    },
+    {
+        "id": 400,
+        "name": "Maui Canyon Adventures Inc., dba Rappel Maui",
+        "categories": [
+            "Guided Land Tours",
+            "Hiking",
+            "Rappelling"
+        ],
+        "address": {
+            "streetAddress": "355 Hukilike Street, Ste 120",
+            "city": "Kahului",
+            "state": "HI",
+            "zipCode": "96732"
+        },
+        "rsvpPhone": "808-270-1500",
+        "adminPhone": "808-270-1500",
+        "tollFreePhone": "",
+        "fax": "808-442-2148",
+        "url": "http://www.rappelmaui.com",
+        "cancellationPolicy": "If you cancel 48 hours or more prior to the date of the event, you will receive a full refund less a 10% cancellation fee. If you cancel within 48 hours for any reason, you will receive no refund, unless we can replace you. If Maui Canyon Adventures cancels, you will receive a full 100% refund. No refund is issued if participants are unable to join the tour at check-in because they don't meet the age or weight requirements. "
+    },
+    {
+        "id": 86,
+        "name": "Maui Classic Charters",
+        "categories": [
+            "Boat Tour",
+            "GlassBottom Viewing",
+            "Snorkeling",
+            "Snuba",
+            "Whale Watching",
+            "Dolphins"
+        ],
+        "address": {
+            "streetAddress": "101 Maalaea Boat Harbor Rd",
+            "city": "Wailuku",
+            "state": "HI",
+            "zipCode": "96793"
+        },
+        "rsvpPhone": "808-879-8188",
+        "adminPhone": "808-879-8188",
+        "tollFreePhone": "800-736-5740",
+        "fax": "808-879-3576",
+        "url": "http://www.mauiclassiccharters.com",
+        "cancellationPolicy": "I agree to the 24 hour cancellation policy and that all sites are weather dependent. Visit <a href=\"https://www.fourwindsmaui.com/terms/\" target=\"_blank\">Four Winds website</a> or <a href=\"https://www.mauimagicsnorkel.com/terms-conditions/\" target=\"_blank\">Maui Magic Website</a> to view all terms and conditions."
+    },
+    {
+        "id": 525,
+        "name": "Maui Paintball",
+        "categories": [
+            "Attractions",
+            "Youth Activities",
+            "Paintball"
+        ],
+        "address": {
+            "streetAddress": "Honoapiilani Hwy",
+            "city": "Olowalu",
+            "state": "HI",
+            "zipCode": "96761"
+        },
+        "rsvpPhone": "(888) 347-4651 ",
+        "adminPhone": "808-280-2764",
+        "tollFreePhone": "",
+        "fax": "808-214-9190",
+        "url": "http://www.mauipaintball.com",
+        "cancellationPolicy": "24 cancellation; all participants must sign waiver located at: http://mauipaintball.com/waiver.pdf"
+    },
+    {
+        "id": 521,
+        "name": "Maui Snorkel Charters, Inc.",
+        "categories": [
+            "Boat Tour",
+            "Snorkeling"
+        ],
+        "address": {
+            "streetAddress": "2800 South Kihei Road",
+            "city": "Kihei",
+            "state": "HI",
+            "zipCode": "96753"
+        },
+        "rsvpPhone": "808-270-8776",
+        "adminPhone": "808-344-5397",
+        "tollFreePhone": "808-344-5397",
+        "fax": "",
+        "url": "http://www.mauisnorkelcharters.com",
+        "cancellationPolicy": "48-hour cancellation required for full refund; $25 fee will be charged for any changes made within the 48-hour window."
+    },
+    {
+        "id": 594,
+        "name": "Maui Snorkel Tours, LLC",
+        "categories": [
+            "Snorkeling"
+        ],
+        "address": {
+            "streetAddress": "61 South Kihei Rd",
+            "city": "Kihei",
+            "state": "HI",
+            "zipCode": "96753"
+        },
+        "rsvpPhone": "808-268-9840",
+        "adminPhone": "808-268-9840",
+        "tollFreePhone": "808-268-3215",
+        "fax": "808-214-6752",
+        "url": "http://www.mauisnorkeltours.com",
+        "cancellationPolicy": "100% refund is issued for cancellations made 48 hours before your scheduled date. If your booking exceeds 6 snorkelers, a charge of $100+tax is required. We reserve the right to refuse service to any customer."
+    },
+    {
+        "id": 386,
+        "name": "Maui Surf Clinics",
+        "categories": [
+            "Rental Equipment",
+            "Eco Tours",
+            "Stand up Paddle Boarding",
+            "Surfing Lessons & Camps",
+            "Cultural & Historic",
+            "Sustainable Tourism of Hawaii Certified"
+        ],
+        "address": {
+            "streetAddress": "505 Front Street Suite #201",
+            "city": "Lahaina",
+            "state": "HI",
+            "zipCode": "96761"
+        },
+        "rsvpPhone": "808-244-7873",
+        "adminPhone": "808-662-4445",
+        "tollFreePhone": "",
+        "fax": "808-662-4443",
+        "url": "http://www.mauisurfclinics.com",
+        "cancellationPolicy": "48 Hr. Cancellation Policy: Reservations for all Group, Semi-Private & Private lessons must be cancelled 48 or more hours in advance of the reserved lesson or a 100% charge will apply."
+    },
+    {
+        "id": 101,
+        "name": "Maui Trail Rides, LLC.",
+        "categories": [
+            "Horseback Riding"
+        ],
+        "address": {
+            "streetAddress": "3530 Kahekili Hwy.",
+            "city": "Wailuku",
+            "state": "HI",
+            "zipCode": "96793"
+        },
+        "rsvpPhone": "808-871-5222",
+        "adminPhone": "808-244-7320",
+        "tollFreePhone": "",
+        "fax": "",
+        "url": "http://www.mendesranch.com",
+        "cancellationPolicy": "24 hours prior to tour time for 5 riders or less; 48 hours for 6 or more riders & 72 hours cancellations for privates."
+    },
+    {
+        "id": 114,
+        "name": "Old Lahaina Lu'au",
+        "categories": [
+            "Luau",
+            "Nightlife",
+            "PONOREZ Online Ticket & CCI"
+        ],
+        "address": {
+            "streetAddress": "1251 Front Street",
+            "city": "Lahaina",
+            "state": "HI",
+            "zipCode": "96761"
+        },
+        "rsvpPhone": "808-667-1998",
+        "adminPhone": "808-667-1998",
+        "tollFreePhone": "",
+        "fax": "808-661-5176",
+        "url": "http://www.oldlahainaluau.com",
+        "cancellationPolicy": "Please acknowledge our policies.  Strollers, car seats, outside chairs are prohibited on Traditional Mat Seating. To receive a full refund, cancellations for parties of 14 or less, must be called in, with at least 24 hours advanced notice. You must call to modify or cancel your reservation.  Cancellations within the 24-hours and/or \"no-shows\", are non-refundable and charged in full.  Cancellation policy varies for parties of 15 or more; please call our Sales Department at (808) 667-1998 for further details. "
+    },
+    {
+        "id": 95,
+        "name": "Pacific Jet Sports, Inc.",
+        "categories": [
+            "Jet Skiing",
+            "Flyboarding"
+        ],
+        "address": {
+            "streetAddress": "P.O. Box 12044",
+            "city": "Lahaina",
+            "state": "HI",
+            "zipCode": "96761"
+        },
+        "rsvpPhone": "808-667-2001",
+        "adminPhone": "808-667-2066",
+        "tollFreePhone": "",
+        "fax": "808-667-4346",
+        "url": "http://www.mauiwatersports.com",
+        "cancellationPolicy": "I agree to Maui Water Sports 24 hours cancellation policy for parties of 4 or less and 48 hours cancellation / change policy for parties of 5 or more. Cancellations within the cancellation period and \"no-shows\" will be charged the FULL AMOUNT of the tour."
+    },
+    {
+        "id": 455,
+        "name": "Paradise Eco Adventures at Maui Dragon Fruit Farm",
+        "categories": [
+            "Guided Land Tours",
+            "Zip Line",
+            "Sunset Tours",
+            "Gardens",
+            "Agricultural Farm Tour",
+            "Sphere-Riding",
+            "Sunset Dinner Cruise"
+        ],
+        "address": {
+            "streetAddress": "833 Punakea Loop",
+            "city": "Lahaina",
+            "state": "Hi",
+            "zipCode": "96761"
+        },
+        "rsvpPhone": "808-264-6127",
+        "adminPhone": "",
+        "tollFreePhone": "",
+        "fax": "808-575-7814",
+        "url": "http://www.paradiseecoadventures.com",
+        "cancellationPolicy": "24 hour cancellation for individual bookings; 72 hours for groups of 10 or more;7-days for private tours."
+    },
+    {
+        "id": 660,
+        "name": "Rascal Charters",
+        "categories": [
+            "Fishing"
+        ],
+        "address": {
+            "streetAddress": "Slip # 13 Maalaea Harbor",
+            "city": "Wailuku",
+            "state": "HI",
+            "zipCode": "96732"
+        },
+        "rsvpPhone": "808-874-8633",
+        "adminPhone": "808-874-8633",
+        "tollFreePhone": "",
+        "fax": "",
+        "url": "http://www.rascalcharters.com",
+        "cancellationPolicy": "No refunds for cancellations within 72 hours of the departure time unless cancelled by the captain or a representative of Rascal Charters. To cancel your reservation, phone 808-874-8633. Cancellations are also accepted via email as long as they include all pertinent information. Cancellations by SMS Text Message will not be accepted."
+    },
+    {
+        "id": 531,
+        "name": "Scotch Mist Sailing Charters",
+        "categories": [
+            "Boat Tour",
+            "Sailing",
+            "Snorkeling",
+            "Fishing",
+            "Sunset Tours",
+            "Whale Watching",
+            "Sunset Dinner Cruise"
+        ],
+        "address": {
+            "streetAddress": "94 Kupuohi St. Emerald Plaza,  A-6",
+            "city": "Lahaina",
+            "state": "HI",
+            "zipCode": "96761"
+        },
+        "rsvpPhone": "808-661-0386",
+        "adminPhone": "808-661-5550",
+        "tollFreePhone": "",
+        "fax": "808-662-3284",
+        "url": "http://www.scotchmistsailingcharters.com",
+        "cancellationPolicy": "A 48 hour cancellation notice in advance of the trip departure time is required for a refund. If an attempted cancellation is on less than 48 hours advance notice and due to a medical illness, a written statement from a local physician or medical clinic is required. A guest may re-schedule an excursion without a cancellation charge if the new excursion is taken within 72 hours of the booked excursion if space is available. Any price differential in the originally booked excursion and the re-scheduled excursion shall be paid by or refunded to the passenger as the case may be. Private charters are unique and require a 7-day cancelation notice."
+    },
+    {
+        "id": 335,
+        "name": "Strike Zone",
+        "categories": [
+            "Fishing"
+        ],
+        "address": {
+            "streetAddress": "P.O. Box 81488",
+            "city": "Haiku",
+            "state": "HI",
+            "zipCode": "96708"
+        },
+        "rsvpPhone": "808-879-4485",
+        "adminPhone": "808-344-5234 Dana",
+        "tollFreePhone": "",
+        "fax": "808-876-0546",
+        "url": "http://www.strikezonemaui.com",
+        "cancellationPolicy": "36 hour cancellation policy,(5% fee on all cancellations)."
+    },
+    {
+        "id": 476,
+        "name": "Ultimate Whale Watch and Snorkel",
+        "categories": [
+            "Boat Tour",
+            "Rafting",
+            "Snorkeling",
+            "Sunset Tours",
+            "Whale Watching",
+            "Sunrise Tours"
+        ],
+        "address": {
+            "streetAddress": "675 Wharf Street, Slip 17,  Lahaina Harbor OR Mala Boat Ramp, Lahaina",
+            "city": "Lahaina ",
+            "state": "HI",
+            "zipCode": ""
+        },
+        "rsvpPhone": "808-667-5678",
+        "adminPhone": "808-757-1490",
+        "tollFreePhone": "",
+        "fax": "",
+        "url": "http://ultimatewhalewatch.com",
+        "cancellationPolicy": "Cancellation and Refunds\r\nYour purchase is 100% refundable provided you cancel your reservation at least 24 hours (for group charters) or 72 hours (for private charters) prior to its check-in time. Company reserves the right to cancel or reschedule tours at any time due to weather or capacity. Tours not suitable for pregnant women, infants under 3 for whale watching or 4 for snorkeling, or persons with back or neck injury(s)."
+    },
+    {
+        "id": 704,
+        "name": "Aloha Kai Luau at Sea Life Park",
+        "categories": [],
+        "address": {
+            "streetAddress": "41-202 Kalanianaole Hwy.",
+            "city": "Waimanalo",
+            "state": "Ha",
+            "zipCode": "96795"
+        },
+        "rsvpPhone": "808-259-2500",
+        "adminPhone": "808-259-2500",
+        "tollFreePhone": "808-259-2500",
+        "fax": "808-259-7373",
+        "url": "http://https://sealifeparkhawaii.com",
+        "cancellationPolicy": ""
+    },
+    {
+        "id": 479,
+        "name": "Bike Hawaii",
+        "categories": [
+            "Bicycling",
+            "Hiking",
+            "Kayak Tours",
+            "Sailing",
+            "Snorkeling",
+            "Eco Tours",
+            "Sustainable Tourism of Hawaii Certified"
+        ],
+        "address": {
+            "streetAddress": "PO 240170",
+            "city": "Honolulu",
+            "state": "HI",
+            "zipCode": "96824"
+        },
+        "rsvpPhone": "808-734-4214",
+        "adminPhone": "",
+        "tollFreePhone": "",
+        "fax": "",
+        "url": "http://www.bikehawaii.com/",
+        "cancellationPolicy": "A 24 hour notice of cancellation is required for 50% refund; 100% charge for no shows.  All guests are required to sign a waiver prior to boarding."
+    },
+    {
+        "id": 492,
+        "name": "Chief's Luau",
+        "categories": [
+            "Attractions",
+            "Luau",
+            "Nightlife",
+            "Shows",
+            "Hula Dancing Lessons",
+            "Cruiseship Friendly"
+        ],
+        "address": {
+            "streetAddress": "400 Farrington Hwy",
+            "city": "Kapolei",
+            "state": "HI",
+            "zipCode": "96707"
+        },
+        "rsvpPhone": "808-664-0448",
+        "adminPhone": "808-664-0448",
+        "tollFreePhone": "",
+        "fax": "",
+        "url": "http://www.chiefsluauhawaii.com",
+        "cancellationPolicy": "Acknowledge 24 Hour Cancellation Policy"
+    },
+    {
+        "id": 274,
+        "name": "E Noa Tours/Waikiki Trolley",
+        "categories": [
+            "Guided Land Tours",
+            "Shopping",
+            "Transportation",
+            "Pearl Harbor Tours"
+        ],
+        "address": {
+            "streetAddress": "3015 Koapaka Street, Suite G",
+            "city": "Honolulu",
+            "state": "HI",
+            "zipCode": "96819"
+        },
+        "rsvpPhone": "808-591-2561",
+        "adminPhone": "808-593-8073",
+        "tollFreePhone": "800-824-8804",
+        "fax": "808-591-9065",
+        "url": "http://www.enoa.com",
+        "cancellationPolicy": "24 hour notice necessary prior to activity date for a full refund."
+    },
+    {
+        "id": 225,
+        "name": "Kualoa Ranch Hawaii",
+        "categories": [
+            "Attractions",
+            "Bicycling",
+            "Boat Tour",
+            "Guided Land Tours",
+            "Hiking",
+            "Horseback Riding",
+            "Kayak Tours",
+            "Zip Line",
+            "Shopping",
+            "Sailing",
+            "Eco Tours",
+            "ATV & UTV Tours",
+            "Youth Activities",
+            "Sightseeing Tours",
+            "Hula Dancing Lessons",
+            "Sustainable Tourism of Hawaii Certified"
+        ],
+        "address": {
+            "streetAddress": "49-560 Kamehameha Hwy",
+            "city": "Kaneohe",
+            "state": "HI",
+            "zipCode": "96744"
+        },
+        "rsvpPhone": "808-237-7321",
+        "adminPhone": "808-237-8515",
+        "tollFreePhone": "800-231-7321",
+        "fax": "808-237-8290",
+        "url": "http://www.kualoa.com",
+        "cancellationPolicy": "By making this reservation on www.kualoa.com, you are acknowledging that your credit card will be charged in full for the activity reserved. You may cancel with a full refund or make changes to your reservation, if available, provided you contact Kualoa Ranch by phone, no less than 48-hours prior to your scheduled tour date/time. If you do not show up for your scheduled activity, if you miss your required check-in or if you do not call the reservations office at least 48-hours in advance to cancel, it will remain a full charge to your credit card and no refunds will be given. All reservations made within 48-hours of tour date/time and same-day reservations are final. Guests are required to sign liability waivers for applicable tours. Our phone lines are open from 7:30am - 4:30pm (HST) at 808-237-7321."
+    },
+    {
+        "id": 237,
+        "name": "Magnum Helicopters",
+        "categories": [
+            "Helicopter Tours",
+            "Pearl Harbor Tours",
+            "PONOREZ Air Tour Module"
+        ],
+        "address": {
+            "streetAddress": "130 Iolana Place",
+            "city": "Honolulu",
+            "state": "HI",
+            "zipCode": "96819"
+        },
+        "rsvpPhone": "808-833-4354",
+        "adminPhone": "808-833-4354",
+        "tollFreePhone": "",
+        "fax": "808-837-7867",
+        "url": "http://https://www.magnumhelicopters.com",
+        "cancellationPolicy": "You must check this box acknowledging our Cancellation Policy.\r\n<br>\r\n<b>Cancellations:</b> Magnum Helicopters has a 48-hour cancellation policy. Customers canceling flight within 48 hours may be charged for their flight. \r\n"
+    }
+]
