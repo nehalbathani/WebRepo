@@ -4,11 +4,11 @@ var slectedRegion = "";
 var selectedTime = "";
 var selectedNoofResult = 3;
 
-// https://www.chatbase.co/chatbot-iframe/www-solulab-com--wy9g0-m0
+
 
 const userid = "sam123";
-const CHAT_TOKEN = "0f92173b-4275-49a8-90b2-102fe6195039";
-const CHAT_ID = "hawaiifun-org-na3mmbhgr";
+const CHAT_TOKEN = "";
+const CHAT_ID = "";
 const CHAT_MODEL = "gpt-4";
 
 var URL_REGAX = /(https?:\/\/[^\s]+)/g;
